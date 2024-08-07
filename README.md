@@ -17,12 +17,7 @@ PlugLLM is a flexible and easy-to-use library for integrating various Language L
    cd plugllm
    ```
 
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Install the LLM client of your choice. For example, for OpenAI:
+2. Install the LLM client of your choice. For example, for OpenAI:
    ```
    pip install openai
    ```
